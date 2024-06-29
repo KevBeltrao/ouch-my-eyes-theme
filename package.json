@@ -1,0 +1,24 @@
+{
+  "name": "kevbeltrao-ouch-my-eyes",
+  "displayName": "ouch-my-eyes",
+  "description": "dark theme focused on high contrast colors",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ouch my eyes",
+        "uiTheme": "hc-black",
+        "path": "./themes/ouch my eyes-color-theme.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "vsce": "^2.15.0"
+  }
+}
