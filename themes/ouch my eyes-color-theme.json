@@ -11,6 +11,15 @@
     },
     "variable.defaultLibrary": {
       "foreground": "#eeeae2"
+    },
+    "type": {
+      "foreground": "#00f3ff"
+    },
+    "class": {
+      "foreground": "#00f3ff"
+    },
+    "interface": {
+      "foreground": "#00f3ff"
     }
   },
   "tokenColors": [
