@@ -24,6 +24,37 @@
   },
   "tokenColors": [
     {
+      "scope": [
+        "entity.name.tag.jsx",
+        "entity.name.tag.tsx",
+      ],
+      "settings": {
+        "foreground": "#ff7df1"
+      }
+    },
+    {
+      "scope": [
+        "support.class.component.tsx",
+        "support.class.component.jsx",
+        "entity.name.type.module.tsx",
+        "entity.name.type.module.jsx",
+        "meta.tag.other.js.jsx",
+        "meta.tag.other.tsx"
+      ],
+      "settings": {
+        "foreground": "#c88eff"
+      },
+    },
+    {
+      "scope": [
+        "entity.other.attribute-name.jsx",
+        "entity.other.attribute-name.tsx"
+      ],
+      "settings": {
+        "foreground": "#e5cffa"
+      }
+    },
+    {
       "name": "unison punctuation",
       "scope": "punctuation.definition.delayed.unison,punctuation.definition.list.begin.unison,punctuation.definition.list.end.unison,punctuation.definition.ability.begin.unison,punctuation.definition.ability.end.unison,punctuation.operator.assignment.as.unison,punctuation.separator.pipe.unison,punctuation.separator.delimiter.unison,punctuation.definition.hash.unison",
       "settings": {
@@ -1271,7 +1302,7 @@
       "name": "ts primitive/builtin types",
       "scope": "support.type.primitive.ts,support.type.builtin.ts,support.type.primitive.tsx,support.type.builtin.tsx",
       "settings": {
-        "foreground": "#eeeae2"
+        "foreground": "#00f3ff"
       }
     },
     {
