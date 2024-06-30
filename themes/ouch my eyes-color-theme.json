@@ -1966,6 +1966,7 @@
     "editorCursor.foreground": "#eeeae2",
     "editorCursor.background": "#000000",
     "editor.selectionBackground": "#57626dbf",
+    "editor.selectionForeground": "#00000000",
     "editor.inactiveSelectionBackground": "#3a3d41bb",
     "editorWhitespace.foreground": "#00f3ff30",
     "editor.selectionHighlightBackground": "#3a93ec30",
