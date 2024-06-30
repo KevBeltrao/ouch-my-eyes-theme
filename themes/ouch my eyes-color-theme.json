@@ -2088,6 +2088,8 @@
     "gitDecoration.stageModifiedResourceForeground": "#f2970d",
     "gitDecoration.submoduleResourceForeground": "#00f3ff",
     "gitDecoration.untrackedResourceForeground": "#57f22c",
+    "editorGhostText.border": "#00000000",
+    "editorGhostText.foreground": "#a9b2c2",
     "editorMarkerNavigation.background": "#0e0f24",
     "editorMarkerNavigationError.background": "#8a8cab",
     "editorMarkerNavigationWarning.background": "#e6be0a",
