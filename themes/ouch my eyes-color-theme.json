@@ -27,6 +27,8 @@
       "scope": [
         "entity.name.tag.jsx",
         "entity.name.tag.tsx",
+        "entity.name.tag.ts",
+        "entity.name.tag.js",
       ],
       "settings": {
         "foreground": "#ff7df1"
@@ -36,10 +38,16 @@
       "scope": [
         "support.class.component.tsx",
         "support.class.component.jsx",
+        "support.class.component.ts",
+        "support.class.component.js",
         "entity.name.type.module.tsx",
         "entity.name.type.module.jsx",
+        "entity.name.type.module.ts",
+        "entity.name.type.module.js",
         "meta.tag.other.js.jsx",
-        "meta.tag.other.tsx"
+        "meta.tag.other.tsx",
+        "meta.tag.other.js.js",
+        "meta.tag.other.ts"
       ],
       "settings": {
         "foreground": "#c88eff"
@@ -48,7 +56,9 @@
     {
       "scope": [
         "entity.other.attribute-name.jsx",
-        "entity.other.attribute-name.tsx"
+        "entity.other.attribute-name.tsx",
+        "entity.other.attribute-name.js",
+        "entity.other.attribute-name.ts"
       ],
       "settings": {
         "foreground": "#e5cffa"
