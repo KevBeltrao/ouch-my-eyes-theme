@@ -1895,6 +1895,7 @@
     }
   ],
   "colors": {
+    "editorUnnecessaryCode.border": "#00000000",
     "foreground": "#eeeae2",
     "focusBorder": "#484a7b00",
     "selection.background": "#1c4166",
@@ -2148,6 +2149,9 @@
     "minimap.errorHighlight": "#ff3810",
     "minimap.warningHighlight": "#e6be0a",
     "minimap.background": "#0e0f24",
+    "minimapSlider.background": "#aaaaaa88",
+    "minimapSlider.activeBackground": "#88888888",
+    "minimapSlider.hoverBackground": "#bbbbbb67",
     "sideBar.dropBackground": "#2a2b38",
     "editorGroup.emptyBackground": "#0e0f24",
     "panelSection.border": "#80808059",
