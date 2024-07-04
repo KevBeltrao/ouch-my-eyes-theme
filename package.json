@@ -3,7 +3,7 @@
   "displayName": "Ouch My Eyes",
   "description": "Dark theme focused on high contrast colors",
   "publisher": "KevinBeltrao",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "engines": {
     "vscode": "^1.90.0"
   },
@@ -30,8 +30,8 @@
     ]
   },
   "scripts": {
-    "vsce:publish": "vsce publish",
-    "vsce:package": "vsce package",
+    "publish": "vsce publish",
+    "package": "vsce package",
     "ship": "yarn run vsce:package && yarn run vsce:publish"
   },
   "devDependencies": {

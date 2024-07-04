@@ -1899,6 +1899,7 @@
   ],
   "colors": {
     "editorUnnecessaryCode.border": "#00000000",
+    "editorUnnecessaryCode.opacity": "#eeeae2aa",
     "foreground": "#eeeae2",
     "focusBorder": "#484a7b00",
     "selection.background": "#1c4166",
