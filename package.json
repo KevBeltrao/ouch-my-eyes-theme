@@ -30,8 +30,8 @@
     ]
   },
   "scripts": {
-    "publish": "vsce publish",
-    "package": "vsce package",
+    "publish": "y | vsce publish",
+    "package": "y | vsce package",
     "ship": "yarn run package && yarn run publish"
   },
   "devDependencies": {
