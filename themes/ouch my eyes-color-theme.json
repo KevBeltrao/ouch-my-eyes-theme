@@ -57,6 +57,18 @@
     },
     {
       "scope": [
+        "variable.language.this",
+        "variable.language.this.js",
+        "variable.language.this.ts",
+        "variable.language.this.jsx",
+        "variable.language.this.tsx",
+      ],
+      "settings": {
+        "foreground": "#c88eff"
+      }
+    },
+    {
+      "scope": [
         "entity.other.attribute-name.jsx",
         "entity.other.attribute-name.tsx",
         "entity.other.attribute-name.js",
@@ -106,7 +118,7 @@
       "name": "variable.parameter.function.language.special.self.python",
       "scope": "variable.parameter.function.language.special.self.python",
       "settings": {
-        "foreground": "#eeeae2"
+        "foreground": "#c88eff"
       }
     },
     {
@@ -737,8 +749,8 @@
       }
     },
     {
-      "name": "Source Js Keyword Operator Delete,source Js Keyword Operator In,source Js Keyword Operator Of,source Js Keyword Operator Instanceof,source Js Keyword Operator New,source Js Keyword Operator Typeof,source Js Keyword Operator Void",
-      "scope": "keyword.operator.expression.delete,keyword.operator.expression.in,keyword.operator.expression.of,keyword.operator.expression.instanceof,keyword.operator.new,keyword.operator.expression.typeof,keyword.operator.expression.void",
+      "name": "Source Js Keyword Operator Delete,source Js Keyword Operator In,source Js Keyword Operator Of,source Js Keyword Operator Instanceof,source Js Keyword Operator New,source Js Keyword Operator Typeof,source Js Keyword Operator Keypeof,source Js Keyword Operator Void",
+      "scope": "keyword.operator.expression.delete,keyword.operator.expression.in,keyword.operator.expression.of,keyword.operator.expression.instanceof,keyword.operator.new,keyword.operator.expression.typeof,keyword.operator.expression.keyof,keyword.operator.expression.void",
       "settings": {
         "foreground": "#ff7df1"
       }
