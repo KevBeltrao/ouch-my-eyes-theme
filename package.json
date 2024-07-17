@@ -3,7 +3,7 @@
   "displayName": "Ouch My Eyes",
   "description": "Dark theme focused on high contrast colors",
   "publisher": "KevinBeltrao",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "engines": {
     "vscode": "^1.90.0"
   },
@@ -23,15 +23,20 @@
   "contributes": {
     "themes": [
       {
-        "label": "ouch my eyes",
-        "uiTheme": "hc-black",
+        "label": "ouch my eyes (classic blue)",
+        "uiTheme": "vs-dark",
         "path": "./themes/ouch my eyes-color-theme.json"
+      },
+      {
+        "label": "ouch my eyes (gray)",
+        "uiTheme": "hc-black",
+        "path": "./themes/ouch my eyes-color-darker-theme.json"
       }
     ]
   },
   "scripts": {
-    "publish": "y | vsce publish",
-    "package": "y | vsce package",
+    "publish": "vsce publish",
+    "package": "vsce package",
     "ship": "yarn run package && yarn run publish"
   },
   "devDependencies": {
