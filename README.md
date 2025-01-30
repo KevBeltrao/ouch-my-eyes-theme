@@ -10,12 +10,12 @@ The primary colors the extension currently uses are:
 
 | Color Name | Color |
 |------------|-------|
-| Magenta    | ![#ff40ea](https://via.placeholder.com/15/ff40ea/000000?text=+) `#ff40ea` |
-| Cyan       | ![#00f3ff](https://via.placeholder.com/15/00f3ff/000000?text=+) `#00f3ff` |
-| Green      | ![#38ff00](https://via.placeholder.com/15/38ff00/000000?text=+) `#38ff00` |
-| Yellow     | ![#ffee63](https://via.placeholder.com/15/ffee63/000000?text=+) `#ffee63` |
-| Gray       | ![#a9b2c2](https://via.placeholder.com/15/a9b2c2/000000?text=+) `#a9b2c2` |
-| Background | ![#0e0f24](https://via.placeholder.com/15/0e0f24/000000?text=+) `#0e0f24` |
+| Magenta    | ![#ff40ea](https://placehold.co/16x16/ff40ea/ff40ea) #ff40ea |
+| Cyan       | ![#00f3ff](https://placehold.co/16x16/00f3ff/00f3ff) #00f3ff |
+| Green      | ![#38ff00](https://placehold.co/16x16/38ff00/38ff00) #38ff00 |
+| Yellow     | ![#ffee63](https://placehold.co/16x16/ffee63/ffee63) #ffee63 |
+| Gray       | ![#a9b2c2](https://placehold.co/16x16/a9b2c2/a9b2c2) #a9b2c2 |
+| Background | ![#0e0f24](https://placehold.co/16x16/0e0f24/0e0f24) #0e0f24 |
 
 The theme might suffer subtle changes as it was just created.
 
