@@ -1,0 +1,7 @@
+id = "ouch-my-eyes-theme"
+name = "Ouch My Eyes"
+version = "0.0.1"
+schema_version = 1
+authors = ["Kevin Beltrão <kevin@kevbeltrao.com.br>"]
+description = "Dark theme focused on high contrast colors"
+repository = "https://github.com/KevBeltrao/ouch-my-eyes-theme"
