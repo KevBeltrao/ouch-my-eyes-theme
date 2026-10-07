@@ -24,7 +24,7 @@ The primary colors the extension currently uses are:
 
 | Color Name | Color |
 |------------|-------|
-| Magenta    | ![#ff40ea](https://placehold.co/16x16/ff40ea/ff40ea) #ff40ea |
+| Magenta    | ![#ff7df1](https://placehold.co/16x16/ff7df1/ff7df1) #ff7df1 |
 | Cyan       | ![#00f3ff](https://placehold.co/16x16/00f3ff/00f3ff) #00f3ff |
 | Green      | ![#38ff00](https://placehold.co/16x16/38ff00/38ff00) #38ff00 |
 | Yellow     | ![#ffee63](https://placehold.co/16x16/ffee63/ffee63) #ffee63 |
