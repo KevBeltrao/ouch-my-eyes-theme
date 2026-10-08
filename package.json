@@ -3,7 +3,7 @@
   "displayName": "Ouch My Eyes",
   "description": "Dark theme focused on high contrast colors",
   "publisher": "KevinBeltrao",
-  "version": "0.0.17",
+  "version": "0.0.18",
   "license": "MIT",
   "engines": {
     "vscode": "^1.90.0"
