@@ -58,7 +58,7 @@ The Zed theme was initially generated from the VSCode themes with Zed's [theme i
 
 ### Publishing
 
-- **VSCode:** `yarn ship` (requires `VSCE_TOKEN`).
+- **VSCode and Open VSX (used by Cursor):** bump `version` in `package.json`, then `yarn ship` (requires `VSCE_TOKEN` and `OPEN_VSX_TOKEN`). New Open VSX versions may take a few minutes to show up.
 - **Zed:** bump `version` in `zed/extension.toml`, push, then open a PR to [zed-industries/extensions](https://github.com/zed-industries/extensions) updating the submodule and the version in `extensions.toml`.
 
 
