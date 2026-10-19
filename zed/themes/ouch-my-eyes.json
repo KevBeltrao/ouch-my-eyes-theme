@@ -26,6 +26,10 @@
         "ghost_element.selected": "#4a4b6f",
         "text": "#eeeae2",
         "text.muted": "#ffffff80",
+        "text.accent": "#00f3ff",
+        "icon": "#8e8e8e",
+        "icon.muted": "#737480",
+        "icon.accent": "#ffffff",
         "status_bar.background": "#05061f",
         "title_bar.background": "#0e0f24",
         "toolbar.background": "#0e0f24",
@@ -86,7 +90,14 @@
         "warning": "#e6be0a",
         "warning.background": "#A9904000",
         "warning.border": "#ffffff00",
-        "players": [],
+        "element.selection_background": "#57626dbf",
+        "players": [
+          {
+            "cursor": "#eeeae2",
+            "background": "#eeeae2",
+            "selection": "#57626dbf"
+          }
+        ],
         "syntax": {
           "attribute": {
             "color": "#e5cffa"
@@ -291,6 +302,10 @@
         "ghost_element.selected": "#4a4b6f",
         "text": "#eeeae2",
         "text.muted": "#ffffff80",
+        "text.accent": "#00f3ff",
+        "icon": "#8e8e8e",
+        "icon.muted": "#737480",
+        "icon.accent": "#ffffff",
         "status_bar.background": "#0b0b0d",
         "title_bar.background": "#1b1c21",
         "toolbar.background": "#1b1c21",
@@ -351,7 +366,14 @@
         "warning": "#e6be0a",
         "warning.background": "#A9904000",
         "warning.border": "#ffffff00",
-        "players": [],
+        "element.selection_background": "#57626dbf",
+        "players": [
+          {
+            "cursor": "#eeeae2",
+            "background": "#eeeae2",
+            "selection": "#57626dbf"
+          }
+        ],
         "syntax": {
           "attribute": {
             "color": "#e5cffa"
